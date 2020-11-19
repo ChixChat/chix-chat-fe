@@ -1,6 +1,9 @@
 language: node_js
 node_js:
-  - "12"
+- '12'
 script:
-    - npm test
-    - npm run build
+- npm test
+- npm run build
+deploy:
+  api_key:
+    secure: gu1y1xWjqOPoS/+wCm0M1XrUZtKA3zT7mDZgiQ3qHbWnijbdHDvt/oUXtaGUdf1GXqjjXhIlion7Z7YKnbQoGwg88gqL8AWCUAZXxuRg5dLWEJMug/ps+JIYQ2q0sCGSNPJROsagC7I7I59eWSmNF4AyWKaBDL2cV7viHrgm1Wb+BF/yMu+5nIOec0pfpone31YRcc2G5YRNxzF9/AWxIpNsNC5486Jcev+xBXW20S3+fWD/NSWCrJowntAn+4vUfMpkAT/fXdM5EyDm0cJ9ihzvf5tZgoDFgqaA/Vu5tf7Zi8/yQKatzhyFvIPrSbb4JaJahVdWgeIAeFrfgOnJg7cxLeCZFqcvPFJUMF23X+AUX+pF/+y34n733UQNNm4aFLXymRs7qxeSG28uA//+7aUJ0Y4l3t24PzD6mpDeKiRsCIePblLkFQH7pNck5slrHXrloG0g943h2g1OS5oqqHR6URAj7anAdf1Gw39iKrD5F6ttUYrCy1lZCc2C0YKBdD7VJ7G64SYOAileNuKzWDvM4ndBl8bKbGJC0bzvVk8UkfF1iwJesNZjAlkUzXAngfG58c36DVYQhgUhaBL8ISHJIV2RuimuA2nzVL7pbaz6erQQ1Id46alSe8oCT/dS6LaSH6qmvx7UB2HdXeddOl/IlIi+A4DqCpt7AKExEF0=
