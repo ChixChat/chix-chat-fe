@@ -38,5 +38,3 @@ See the material-ui-setup branch to play with this library
 - [How to Use GraphQL with Ruby on Rails](https://web-crunch.com/posts/how-to-use-graphql-with-ruby-on-rails)
 - [Rails & GraphQL](https://mattboldt.com/2019/01/07/rails-and-graphql/)
 - [Rails, React, & GraphQL](https://mattboldt.com/2019/06/23/rails-graphql-react-apollo-part-two/)
-
-- []()
