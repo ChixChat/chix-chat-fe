@@ -11,10 +11,11 @@ Save links to resources that will help contributors here (:
 - [GraphQL](https://graphql.org/learn/)
 
 ### Material-UI Component Library
-- (Material-UI)[https://material-ui.com]
-- (Material Design)[https://material.io]
-- (Material Design Icons)[https://materialdesignicons.com]
-- (MUI Treasury)[https://mui-treasury.com]
+See the material-ui-setup branch to play with this library
+- [Material-UI](https://material-ui.com)
+- [Material Design](https://material.io)
+- [Material Design Icons](https://materialdesignicons.com)
+- [MUI Treasury](https://mui-treasury.com)
 
 ### Style/Design
 - [Dark theme](https://material.io/design/color/dark-theme.html)
