@@ -32,6 +32,7 @@ Please see the [CONTRIBUTING](CONTRIBUTING.md) and [RESOURCES](RESOURCES.md) fil
 Feel free to add more ideas for future iterations here!
 - Users can add current book, game, podcast, show ie "Currently Reading" to profile 
 - Users can leave compliments on chix profiles
+- Users can change app from dark to light theme
 
 ## Components & Features
 - Welcome
