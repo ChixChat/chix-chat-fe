@@ -16,6 +16,10 @@ Save links to resources that will help contributors here (:
 - (Material Design Icons)[https://materialdesignicons.com]
 - (MUI Treasury)[https://mui-treasury.com]
 
+### Style/Design
+- [Dark theme](https://material.io/design/color/dark-theme.html)
+- [A Hands-On Guide to Mobile-First Responsive Design](https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/)
+
 ### Google OAuth
 - [Google Sign-In](https://developers.google.com/identity/sign-in/web/sign-in)
 - [React Google Login](https://www.npmjs.com/package/react-google-login)
