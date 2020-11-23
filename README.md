@@ -1,7 +1,7 @@
 # Chix Chat 
 Chix Chat is a community building app for Creative, Healthy, Inclusive, Xenas (confident, welcoming womxn) to connect with each other.
 The Chix Chat community starts with Chix developing the app in a collaborative public manner.
-Please see the [CONTRIBUTING](CONTRIBUTING.md) file if you are interested in making an open source contribution to this project!
+Please see the [CONTRIBUTING](CONTRIBUTING.md) and [RESOURCES](RESOURCES.md) files if you are interested in making an open source contribution to this project!
 
 ## Project Specifications
 ### Iteration 1 Chix Users
