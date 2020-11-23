@@ -33,8 +33,34 @@ Feel free to add more ideas for future iterations here!
 - Users can add current book, game, podcast, show ie "Currently Reading" to profile 
 - Users can leave compliments on chix profiles
 
+## Components & Features
+- Welcome
+  - Logo
+  - Description of the app
+  - Returning user can sign in with Google to go to their Profile
+  - New user can sign up with Google to go to SignUp
+- SignUp
+  - User must agree to community code of conduct
+  - User must create a profile to use the app
+- Profile
+  - User can upload a profile picture
+  - User can answer and edit profile prompts
+  - User can log out of the app
+  - User can delete profile
+- NavBar
+  - User can navigate to About, Profile, Chix, or Chat
+- Chix (container for Profiles)
+  - User can view other users Profiles
+- Chat (container for Posts)
+  - User can post questions or conversation starters
+    - Post can include text, images and/or links
+  - Users can reply to posts
+  - Users are notified when someone responds to a post or comment they made
+- About
+  - Users can review community code of conduct
+
 ## Wireframes
-TBD (To Be Developed) Are you a designer? We'd love your support!
+TBD (To Be Developed) Do you have an eye for design? We'd love your support with our logo and prototype design!
 - [Miro Whiteboard](https://miro.com/app/board/o9J_khKi5is=/)
 
 ## Tech Stack
