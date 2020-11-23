@@ -34,17 +34,17 @@ Feel free to add more ideas for future iterations here!
 - Users can leave compliments on chix profiles
 
 ## Wireframes
-TBD (to be developed)
-[Miro Whiteboard](https://miro.com/app/board/o9J_khKi5is=/)
+TBD (To Be Developed) Are you a designer? We'd love your support!
+- [Miro Whiteboard](https://miro.com/app/board/o9J_khKi5is=/)
 
 ## Tech Stack
 - Front End (this repo)
   - React
-  - React Hooks & Context API
+  - React Hooks & Context API (TBD)
   - styled-components
 - [Back End Repo](https://github.com/ChixChat/chix_chat_be) 
   - Ruby on Rails
-  - GraphQL
+  - GraphQL (TBD)
 - Other
   - [Deployed](https://chix-chat.herokuapp.com/) with Heroku
   - Travis CI [![Build Status](https://travis-ci.org/ChixChat/chix-chat-fe.svg?branch=main)](https://travis-ci.org/ChixChat/chix-chat-fe)
@@ -66,4 +66,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 - [Lauren Lucero](https://github.com/laurenlucero)
 - [Léah Winters](https://github.com/LeahWinters)
 - [Kelsha Darby](https://github.com/kelshadarby)
+Please contact us with any questions about this project!
 
