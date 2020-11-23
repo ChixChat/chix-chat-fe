@@ -1,9 +1,9 @@
-# Chix Chat
-Chix Chat is a community building app for Creative, Healthy, Inclusive, Xenas (confident, welcoming womxn) to connect with each other. /
-The Chix Chat community starts with Chix developing the app in a collaborative public manner. /
+# Chix Chat 
+Chix Chat is a community building app for Creative, Healthy, Inclusive, Xenas (confident, welcoming womxn) to connect with each other.
+The Chix Chat community starts with Chix developing the app in a collaborative public manner.
 Please see the [CONTRIBUTING](CONTRIBUTING.md) file if you are interested in making an open source contribution to this project!
 
-## MVP Project Specifications
+## Project Specifications
 ### Iteration 1 Chix Users
 - Users can sign up or sign in to the app with Google
   - A new users must agree to Community Guidelines
@@ -33,11 +33,9 @@ Feel free to add more ideas for future iterations here!
 - Users can add current book, game, podcast, show ie "Currently Reading" to profile 
 - Users can leave compliments on chix profiles
 
-## Whiteboard
-[Miro](https://miro.com/app/board/o9J_khKi5is=/)
-
 ## Wireframes
 TBD (to be developed)
+[Miro Whiteboard](https://miro.com/app/board/o9J_khKi5is=/)
 
 ## Tech Stack
 - Front End (this repo)
@@ -47,9 +45,12 @@ TBD (to be developed)
 - [Back End Repo](https://github.com/ChixChat/chix_chat_be) 
   - Ruby on Rails
   - GraphQL
+- Other
+  - [Deployed](https://chix-chat.herokuapp.com/) with Heroku
+  - Travis CI [![Build Status](https://travis-ci.org/ChixChat/chix-chat-fe.svg?branch=main)](https://travis-ci.org/ChixChat/chix-chat-fe)
 
 ## Installation
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). \
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 - To install, fork then clone this repo into an empty directory on your local machine.
 - Run `npm install` from the project directory in your teminal to install the project's dependencies.
 - Run `npm start` to run the application in development mode.
