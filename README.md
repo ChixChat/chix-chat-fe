@@ -90,8 +90,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Maintainers
+Please contact us with any questions about this project!
 - [Lauren Lucero](https://github.com/laurenlucero)
 - [Léah Winters](https://github.com/LeahWinters)
 - [Kelsha Darby](https://github.com/kelshadarby)
-Please contact us with any questions about this project!
 
