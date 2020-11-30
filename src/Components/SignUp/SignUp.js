@@ -1,5 +1,8 @@
 import React from "react";
 
+// add labels to form
+// routes to UserProfile
+
 const SignUp = () => {
   return (
     <>

@@ -1,5 +1,7 @@
 import React from "react";
 
+// describe Chix Chat mission and community code of conduct
+
 const About = () => {
   return (
     <>

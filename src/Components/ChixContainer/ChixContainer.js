@@ -1,5 +1,7 @@
 import React from "react";
 
+// all user profiles
+
 const ChixContainer = () => {
   return (
     <>

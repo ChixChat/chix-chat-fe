@@ -1,5 +1,7 @@
 import React from "react";
 
+// editable profile
+
 const ChixProfile = () => {
   return (
     <>
