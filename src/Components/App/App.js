@@ -1,14 +1,14 @@
 import "./App.css";
 import Welcome from "../Welcome/Welcome";
 import SignUp from "../SignUp/SignUp";
-import { Switch, Route, Link } from "react-router-dom";
+import { Switch, Route, Link, BrowserRouter } from "react-router-dom";
 
 // build out routes
 // state management with hooks
 
 function App() {
   return (
-    <div>
+    <BrowserRouter>
       <Link to="/">
         <h1>Hello Chix</h1>
       </Link>
@@ -16,7 +16,7 @@ function App() {
         <Route path="/sign-up" render={() => <SignUp />} />
         <Route exact path="/" render={() => <Welcome />} />
       </Switch>
-    </div>
+    </BrowserRouter>
   );
 }
 
