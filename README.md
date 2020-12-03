@@ -65,7 +65,7 @@ Feel free to add more ideas for future iterations here!
   - Users can review community code of conduct
 
 ## Wireframes
-TBD (To Be Developed) Do you have an eye for design? We'd love your support with our logo and prototype design! Use Miro or your prototype tool of choice.
+TBD (To Be Developed) Do you have an eye for design? We'd love your support with our logo and prototype design! Use Miro or your wireframe tool of choice.
 - [Miro Whiteboard](https://miro.com/app/board/o9J_khKi5is=/)
 
 ## Tech Stack
