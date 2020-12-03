@@ -1,12 +1,12 @@
 # Chix Chat 
-Chix Chat is a community building app for Creative, Healthy, Inclusive, Xenas (confident, welcoming womxn) to connect with each other.
+The goal of Chix Chat is to create a community building app for Creative, Healthy, Inclusive, Xenas (confident, welcoming womxn) to connect with each other.
 The Chix Chat community starts with Chix developing the app in a collaborative public manner.
 Please see the [CONTRIBUTING](CONTRIBUTING.md) and [RESOURCES](RESOURCES.md) files if you are interested in making an open source contribution to this project!
 
 ## Project Specifications
 ### Iteration 1 Chix Users
-- Users can sign up or sign in to the app with Google
-  - A new users must agree to Community Guidelines
+- Users can sign up or sign in to the app (future iterations will use Google OAuth)
+  - A new users must agree to Community Guidelines (to be created)
   - A new user must create a profile (think Bumble) by uploading a profile picture and answering the following:
      - What would you like to be called here? (screenname)
      - How do you foster your creativity?
@@ -30,6 +30,7 @@ Please see the [CONTRIBUTING](CONTRIBUTING.md) and [RESOURCES](RESOURCES.md) fil
 
 ### Extensions
 Feel free to add more ideas for future iterations here!
+- Users can sign up or log in with Google
 - Users can add current book, game, podcast, show ie "Currently Reading" to profile 
 - Users can leave compliments on chix profiles
 - Users can change app from dark to light theme
@@ -41,6 +42,7 @@ Feel free to add more ideas for future iterations here!
   - Returning user can sign in with Google to go to their Profile
   - New user can sign up with Google to go to SignUp
 - SignUp
+  - User must share an email, create a screenname and password to use the app
   - User must agree to community code of conduct
   - User must create a profile to use the app
 - Profile
@@ -52,10 +54,10 @@ Feel free to add more ideas for future iterations here!
   - User can navigate to About, Profile, Chix, or Chat
 - ChixContainer (container for ChixProfile)
   - User can view other users Profiles
-    - ChixProfile
+    - ChixProfile (an individual users public profile)
 - ChatContainer (container for ChatPosts)
   - User can post questions or conversation starters
-    - ChatPost
+    - ChatPost (an individual post)
       - Post can include text, images and/or links
   - Users can reply to posts
   - Users are notified when someone responds to a post or comment they made
@@ -63,12 +65,13 @@ Feel free to add more ideas for future iterations here!
   - Users can review community code of conduct
 
 ## Wireframes
-TBD (To Be Developed) Do you have an eye for design? We'd love your support with our logo and prototype design!
+TBD (To Be Developed) Do you have an eye for design? We'd love your support with our logo and prototype design! Use Miro or your prototype tool of choice.
 - [Miro Whiteboard](https://miro.com/app/board/o9J_khKi5is=/)
 
 ## Tech Stack
 - Front End (this repo)
   - React
+  - React Router
   - React Hooks & Context API (TBD)
   - styled-components
 - [Back End Repo](https://github.com/ChixChat/chix_chat_be) 
