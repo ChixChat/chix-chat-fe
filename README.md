@@ -5,8 +5,8 @@ Please see the [CONTRIBUTING](CONTRIBUTING.md) and [RESOURCES](RESOURCES.md) fil
 
 ## Project Specifications
 ### Iteration 1 Chix Users
-- Users can sign up or sign in to the app (future iterations will use Google OAuth)
-  - A new users must agree to Community Guidelines (to be created)
+- Users can sign up or sign in to the app (future iteration/extension to use Google OAuth)
+  - A new user must agree to Community Guidelines (to be created)
   - A new user must create a profile (think Bumble) by uploading a profile picture and answering the following:
      - What would you like to be called here? (screenname)
      - How do you foster your creativity?
