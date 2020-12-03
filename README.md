@@ -50,11 +50,13 @@ Feel free to add more ideas for future iterations here!
   - User can delete profile
 - NavBar
   - User can navigate to About, Profile, Chix, or Chat
-- Chix (container for Profiles)
+- ChixContainer (container for ChixProfile)
   - User can view other users Profiles
-- Chat (container for Posts)
+    - ChixProfile
+- ChatContainer (container for ChatPosts)
   - User can post questions or conversation starters
-    - Post can include text, images and/or links
+    - ChatPost
+      - Post can include text, images and/or links
   - Users can reply to posts
   - Users are notified when someone responds to a post or comment they made
 - About
