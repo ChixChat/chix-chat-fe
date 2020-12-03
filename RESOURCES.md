@@ -6,6 +6,7 @@ Save links to resources that will help contributors here (:
 
 ### Tech Docs
 - [React](https://reactjs.org/docs/getting-started.html) (see Hooks & Advanced Guides for Context)
+- [React Router](https://reactrouter.com/web/guides/quick-start)
 - [styled-components](https://styled-components.com/docs)
 - [Ruby on Rails](https://guides.rubyonrails.org/)
 - [GraphQL](https://graphql.org/learn/)
