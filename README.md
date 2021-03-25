@@ -1,5 +1,5 @@
 # Chix Chat 
-The goal of Chix Chat is to create a community building app for Creative, Healthy, Inclusive, Xenas (confident, welcoming womxn) to connect with each other.
+The goal of Chix Chat is to create a community building app for Creative, Healthy, Inclusive, Xenas (confident, welcoming women identifying humans) to connect with each other.
 The Chix Chat community starts with Chix developing the app in a collaborative public manner.
 Please see the [CONTRIBUTING](CONTRIBUTING.md) and [RESOURCES](RESOURCES.md) files if you are interested in making an open source contribution to this project!
 
